@@ -1,0 +1,58 @@
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csprojAssemblyReference.cache
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+D:\proje teslim\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+D:\proje teslim\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+C:\Users\90553\Desktop\Otobus\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+C:\Users\90553\Desktop\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csprojAssemblyReference.cache
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+F:\Yerel Disk D\TRAKYA UNIVERSITESI\vize\OtobusBiletVeriTabanı\Otobus\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
